@@ -1,6 +1,9 @@
 # Teambox
 ## Collaboration just got better
 
+### NOTE: This version of teambox runs on Rails 3.0.20.
+
+
 [Teambox is project management software](http://teambox.com/) built on Ruby on Rails with a focus on collaboration.
 
 Teambox workflow is project-centered; each project being visible only to people invited to it.
